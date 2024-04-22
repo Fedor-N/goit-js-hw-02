@@ -1,9 +1,0 @@
-.notificatoinStyle {
-  font-size: 24px;
-  font-weight: 700;
-}
-
-.notificatoinStyle:hover,
-.notificatoinStyle:focus {
-  color: #ff00ff;
-}
